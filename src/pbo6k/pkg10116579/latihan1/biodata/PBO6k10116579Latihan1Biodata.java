@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pbo6k.pkg10116588.latihan1.biodata;
+package pbo6k.pkg10116579.latihan1.biodata;
 
 /**
  *
  * @author Indra F
- * Nama                     : Indra Febriastanto
- * NIM                      : 10116588
+ * Nama                     : Agung Hidayatul A
+ * NIM                      : 10116579
  * KELAS                    : PBO6K
  * Deskripsi program        : Program ini berisi untuk menampilkan
  * Jenis - jenis tipe data  : string,bilangan bulat
  */
-public class PBO6k10116588Latihan1Biodata {
+public class PBO6k10116579Latihan1Biodata {
 
     /**
      * @param args the command line arguments
